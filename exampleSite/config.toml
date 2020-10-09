@@ -8,7 +8,7 @@ summaryLength = "15"
 theme = "bigspring"
 title = "Collectivize Health"
 [markup.goldmark.renderer]
-unsafe = false
+unsafe = true
 [[menu.company]]
 URL = "#"
 name = "About Us"
