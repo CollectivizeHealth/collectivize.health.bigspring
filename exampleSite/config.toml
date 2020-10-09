@@ -19,13 +19,13 @@ name = "Quick Start"
 URL = "pricing"
 name = "Pricing"
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 1
-[[menu.main]]
 URL = "pricing"
 name = "Pricing"
 weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
