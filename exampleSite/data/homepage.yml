@@ -32,7 +32,7 @@ feature:
     icon: ti-cloud-up
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
-  enable: true
+  enable: false
   service_item:
   - title: It is the most advanced digital marketing and it company.
     images:
@@ -85,15 +85,15 @@ service:
       label: Check it out
       link: "#"
 screenshot:
-  enable: true
+  enable: false
   title: Experience the best <br> workflow with us
   image: images/screenshot.svg
 call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Email us with your ideas and needs for your next Digital Health or Public
+    Health idea, and let's build something great together!
   button:
     enable: true
     label: Contact Us
