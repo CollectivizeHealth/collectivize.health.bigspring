@@ -1,4 +1,12 @@
 ---
 label: Feature
 hide_body: false
-fields: []
+fields:
+- name: block
+  type: blocks
+  template_types:
+  - feature
+  config:
+    min: 
+    max: 
+  label: Block
