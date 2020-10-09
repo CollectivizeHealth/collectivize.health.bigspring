@@ -57,7 +57,7 @@ author = "Collectivize Health"
 contact_form_action = "#"
 copyright = "Copyright © 2020 • Collectivize Health"
 description = "Collectivize Health"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "Follow us on social media:"
 logo = "images/logo.png"
 logo_width = "300px"
 [params.navigation_button]
