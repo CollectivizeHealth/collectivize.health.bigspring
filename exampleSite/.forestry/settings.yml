@@ -23,7 +23,7 @@ sections:
   templates:
   - post
 - type: heading
-  label: Others Page
+  label: Other Pages
 - type: document
   path: exampleSite/content/faq/_index.md
   label: FAQ
