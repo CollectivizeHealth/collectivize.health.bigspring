@@ -1,7 +1,10 @@
 +++
+date = 2020-10-11T22:00:00Z
 description = "Collectivize Health presents at the 16th World Congress on Public Health."
-subtitle = "12-16 October, 2020"
+image = "/images/wcph2020-splash.png"
+subtitle = ""
 title = "16th World Congress on Public Health"
+type = ""
 
 +++
 # Using AI for mental health analysis & prediction in school surveys
@@ -22,7 +25,7 @@ Collectivize Health is presenting the conference paper and talk titled _Using AI
 
 ##### Related Links
 
-###### Using AI for Mental Health Analysis and Prediction in School Surveys
+#### Using AI for Mental Health Analysis and Prediction in School Surveys
 
 H S Adnan, A Srsic, P M Venticich, D M R Townend
 
