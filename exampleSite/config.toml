@@ -58,7 +58,7 @@ contact_form_action = "#"
 copyright = "Copyright © 2020 • Collectivize Health"
 description = "Collectivize Health"
 footer_content = "Follow us on social media:"
-logo = "images/logo.png"
+logo = "/images/ch-col-grey_trn.svg"
 logo_width = "300px"
 [params.navigation_button]
 enable = true
