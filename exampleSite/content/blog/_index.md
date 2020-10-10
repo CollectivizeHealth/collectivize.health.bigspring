@@ -1,6 +1,11 @@
 ---
 title: Latest News
-subtitle: Press releases and blog posts.
-description: Find the latest news, press releases and blog posts.
+subtitle: ''
+description: This is meta description
+menu:
+  main:
+    URL: blog
+    name: News
+    weight: 1
 
 ---
