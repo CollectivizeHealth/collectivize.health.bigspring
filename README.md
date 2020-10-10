@@ -4,4 +4,4 @@
 Github repository for the Collectivize Health website.
 
 ### Developed by
-![Sami Adnan](https://sami.cloud)
+[Sami Adnan](https://sami.cloud)
