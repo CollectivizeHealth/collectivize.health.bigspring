@@ -1,12 +1,11 @@
 ---
 title: Contact Us
 subtitle: ''
-description: This is meta description
+description: Collectivize Health contact details
 
 ---
-### Why you should contact us!
+### Let's talk!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+Please use the contact form regarding any queries. Or email us, and a team member will get in touch with you as soon as possible. Thank you!
 
-* **Mail: info(at)collectivize.health**
-* **Address:** 
+**####Mail: info(at)collectivize.health**
