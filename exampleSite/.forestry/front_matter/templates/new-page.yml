@@ -5,9 +5,29 @@ fields:
 - type: text
   name: title
   label: title
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
 - type: text
   name: subtitle
   label: subtitle
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+  description: 'Available type: featured/regular'
 - type: text
   name: description
   label: meta description
