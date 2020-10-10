@@ -31,7 +31,7 @@ H S Adnan, A Srsic, P M Venticich, D M R Townend
 
 _European Journal of Public Health_, Volume 30, Issue Supplement_5, September 2020, ckaa165.336, [https://doi.org/10.1093/eurpub/ckaa165.336](https://doi.org/10.1093/eurpub/ckaa165.336 "https://doi.org/10.1093/eurpub/ckaa165.336")
 
-\*_Published_*  
+**Published**  
 30 September 2020
 
 <hr>
