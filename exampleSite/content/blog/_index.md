@@ -1,7 +1,6 @@
 ---
-title: "Latest News"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: Latest News
+subtitle: Press releases and blog posts.
+description: Find the latest news, press releases and blog posts.
+
 ---
