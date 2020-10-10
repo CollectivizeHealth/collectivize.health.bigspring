@@ -1,4 +1,4 @@
-[![CH](exampleSite/static/images/github-splash.png)]
+[(exampleSite/static/images/github-splash.png)]
 
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with bigspring theme by following this easy steps (No Coding Required)
