@@ -4,7 +4,7 @@ description = "Collectivize Health presents at the 16th World Congress on Public
 image = "/images/wcph2020-splash.png"
 subtitle = ""
 title = "16th World Congress on Public Health"
-type = ""
+type = "featured"
 
 +++
 # Using AI for mental health analysis & prediction in school surveys
