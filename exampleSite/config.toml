@@ -54,7 +54,7 @@ URL = "faq"
 name = "FAQ"
 [params]
 author = "Collectivize Health"
-contact_form_action = "data-netlify=\"true\""
+contact_form_action = ""
 copyright = "Copyright © 2020 • Collectivize Health"
 description = "Collectivize Health"
 footer_content = "   Follow us on social media:"
