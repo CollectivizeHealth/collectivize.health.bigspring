@@ -32,4 +32,5 @@ fields:
   name: description
   label: meta description
 pages:
+- exampleSite/content/blog/16th-world-congress-on-public-health-1.md
 - exampleSite/content/blog/Congress/test.md
