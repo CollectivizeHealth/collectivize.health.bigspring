@@ -10,47 +10,54 @@ title = "Collectivize Health"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.company]]
-URL = "pricing"
-name = "Pricing"
-weight = 1
+URL = "#"
+name = "About Us"
 [[menu.company]]
 URL = "#"
 name = "Quick Start"
-weight = 2
 [[menu.company]]
-URL = "#"
-name = "About Us"
-weight = 3
-[[menu.product]]
-URL = "#"
-name = "Features"
+URL = "pricing"
+name = "Pricing"
+[[menu.main]]
+URL = "blog"
+name = "Blog"
 weight = 1
-[[menu.product]]
-URL = "#"
-name = "Platform"
+[[menu.main]]
+URL = "pricing"
+name = "Pricing"
 weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.main]]
+URL = "faq"
+name = "FAQ"
+weight = 4
 [[menu.product]]
 URL = "pricing"
 name = "Pricing"
-weight = 3
-[[menu.support]]
-URL = "faq"
-name = "FAQ"
-weight = 1
-[[menu.support]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
-weight = 2
+[[menu.product]]
+URL = "#"
+name = "Platform"
+[[menu.product]]
+URL = "#"
+name = "Features"
 [[menu.support]]
 URL = "privacy-policy"
 name = "Privacy Policy"
-weight = 3
+[[menu.support]]
+URL = "terms-conditions"
+name = "Terms & Conditions"
+[[menu.support]]
+URL = "faq"
+name = "FAQ"
 [params]
 author = "Collectivize Health"
-contact_form_action = "#"
+contact_form_action = "data-netlify=\"true\""
 copyright = "Copyright © 2020 • Collectivize Health"
 description = "Collectivize Health"
-footer_content = "Follow us on social media:"
+footer_content = "   Follow us on social media:"
 logo = "/images/ch-col-grey_trn.svg"
 logo_width = "300px"
 [params.navigation_button]
