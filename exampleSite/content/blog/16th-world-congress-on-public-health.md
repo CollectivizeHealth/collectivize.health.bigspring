@@ -1,11 +1,16 @@
-+++
-date = 2020-10-11T22:00:00Z
-description = "Collectivize Health presents at the 16th World Congress on Public Health."
-image = "/images/wcph2020-splash.png"
-title = "16th World Congress on Public Health"
-type = "featured"
+---
+title: "16th World Congress on Public Health"
+date: 2020-10-11T22:00:00Z
+# post image
+image: "/images/wcph2020-splash.png"
+# post type (regular/featured)
+type: "featured"
+# meta description
+description: "Collectivize Health presents at the 16th World Congress on Public Health."
+# post draft
+draft: false
+---
 
-+++
 # Using AI for mental health analysis & prediction in school surveys
 
 <br>
