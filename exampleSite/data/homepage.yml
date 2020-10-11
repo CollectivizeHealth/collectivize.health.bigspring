@@ -27,9 +27,9 @@ feature:
   - name: Evidence based
     icon: ti-credit-card
     content: We practice evidence-based medicine and value patient centeredness.
-  - name: Faster Response
+  - name: Client management
     icon: ti-headphone-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: We assign a contact person for all our clients for the best communication.
   - name: Digital Health
     icon: ti-cloud-up
     content: We cover a wide range of digital health solutions. Deploy Artificial
