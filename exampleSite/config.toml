@@ -10,40 +10,45 @@ title = "Collectivize Health"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.company]]
-URL = "#"
-name = "About Us"
+URL = "pricing"
+name = "Pricing"
+weight = 1
 [[menu.company]]
 URL = "#"
 name = "Quick Start"
+weight = 2
 [[menu.company]]
-URL = "pricing"
-name = "Pricing"
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 1
+URL = "#"
+name = "About Us"
+weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = "2"
-[[menu.product]]
-URL = "pricing"
-name = "Pricing"
-[[menu.product]]
-URL = "#"
-name = "Platform"
+weight = 2
 [[menu.product]]
 URL = "#"
 name = "Features"
-[[menu.support]]
-URL = "privacy-policy"
-name = "Privacy Policy"
-[[menu.support]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
+weight = 1
+[[menu.product]]
+URL = "#"
+name = "Platform"
+weight = 2
+[[menu.product]]
+URL = "pricing"
+name = "Pricing"
+weight = 3
 [[menu.support]]
 URL = "faq"
 name = "FAQ"
+weight = 1
+[[menu.support]]
+URL = "terms-conditions"
+name = "Terms & Conditions"
+weight = 2
+[[menu.support]]
+URL = "privacy-policy"
+name = "Privacy Policy"
+weight = 3
 [params]
 author = "Collectivize Health"
 contact_form_action = ""
