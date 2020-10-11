@@ -7,6 +7,6 @@ menu:
   main:
     name: News
     URL: blog
-    weight: 1
+    weight: 2
 
 ---

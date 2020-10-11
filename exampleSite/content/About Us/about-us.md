@@ -6,6 +6,8 @@ image = ""
 subtitle = "Digital & Public Health Consulting"
 title = "About Us"
 type = ""
+[menu.main]
+weight = 1
 
 +++
 Collectivize Health is a digital & public health consulting start-up company.

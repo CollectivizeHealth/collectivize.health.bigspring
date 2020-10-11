@@ -13,10 +13,6 @@ unsafe = true
 URL = "#"
 name = "About Us"
 weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 2
 [[menu.support]]
 URL = "faq"
 name = "FAQ"

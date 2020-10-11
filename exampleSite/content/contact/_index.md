@@ -2,6 +2,11 @@
 title: Contact Us
 subtitle: ''
 description: Collectivize Health contact details
+menu:
+  main:
+    URL: contact
+    name: Contact
+    weight: 3
 
 ---
 ### Let's talk!
