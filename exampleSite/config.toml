@@ -9,6 +9,10 @@ theme = "bigspring"
 title = "Collectivize Health"
 [markup.goldmark.renderer]
 unsafe = true
+[[menu.company]]
+URL = "#"
+name = "About Us"
+weight = 1
 [[menu.support]]
 URL = "faq"
 name = "FAQ"
@@ -31,7 +35,7 @@ logo = "/images/ch-col-grey_trn.svg"
 logo_width = "300px"
 [params.navigation_button]
 enable = true
-label = "Get Started"
+label = "Network with us"
 link = "contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
