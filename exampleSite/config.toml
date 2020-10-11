@@ -73,7 +73,7 @@ enable = false
 preloader = ""
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/CollectivizePH"
 title = "twitter"
 [[params.social]]
 icon = "ti-instagram"
