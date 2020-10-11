@@ -1,16 +1,11 @@
 ---
-title: "16th World Congress on Public Health"
-date: 2020-10-11T22:00:00Z
-# post image
+date: 2020-10-11T22:00:00.000+00:00
+description: Collectivize Health presents at the 16th World Congress on Public Health.
 image: "/images/wcph2020-splash.png"
-# post type (regular/featured)
-type: "featured"
-# meta description
-description: "Collectivize Health presents at the 16th World Congress on Public Health."
-# post draft
-draft: false
----
+title: d16th World Congress on Public Health
+type: featured
 
+---
 # Using AI for mental health analysis & prediction in school surveys
 
 <br>
