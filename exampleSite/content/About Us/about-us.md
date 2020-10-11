@@ -1,7 +1,6 @@
 +++
 date = ""
 description = "About Collectivize Health"
-draft = true
 image = ""
 subtitle = "Digital & Public Health Consulting"
 title = "About Us"
