@@ -32,8 +32,7 @@ feature:
     content: We assign a contact person for all our clients for the best communication.
   - name: Digital Health
     icon: ti-cloud-up
-    content: We cover a wide range of digital health solutions like AI for your next
-      project!
+    content: We cover a wide range of digital health solutions like Artificial Intelligence.
 service:
   enable: false
   service_item:
