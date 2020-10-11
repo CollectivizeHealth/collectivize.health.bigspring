@@ -1,14 +1,12 @@
 ---
-title: Latest News
+title: Blog
 subtitle: ''
-description: This is meta description
-type: blog
+description: Collectivize Health latest news, updates and blog posts.
+type: ''
 menu:
   company:
-    name: Blog
     weight: 2
   main:
-    name: Blog
     weight: 2
 
 ---
