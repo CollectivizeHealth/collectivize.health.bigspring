@@ -24,9 +24,9 @@ feature:
   - name: Service Oriented
     icon: ti-alarm-clock
     content: We work closely with our clients on project management and scheduling.
-  - name: Value For Money
-    icon: ti-credit-card
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Evidence based
+    icon: ti-books
+    content: We practice evidence-based medicine and value patient centeredness.
   - name: Faster Response
     icon: ti-headphone-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
