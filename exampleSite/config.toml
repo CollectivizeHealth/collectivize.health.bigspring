@@ -23,17 +23,9 @@ URL = "blog"
 name = "Blog"
 weight = 1
 [[menu.main]]
-URL = "pricing"
-name = "Pricing"
-weight = 2
-[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 3
-[[menu.main]]
-URL = "faq"
-name = "FAQ"
-weight = 4
+weight = "2"
 [[menu.product]]
 URL = "pricing"
 name = "Pricing"
