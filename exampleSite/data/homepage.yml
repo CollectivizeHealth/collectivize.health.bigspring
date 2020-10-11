@@ -11,11 +11,12 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Our consulting areas
   feature_item:
-  - name: Clean Code
+  - name: Improve health and well-being
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: We ca carry out independent research or collaborate with you on your
+      next project.
   - name: Object Oriented
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
