@@ -23,8 +23,7 @@ feature:
     content: We value sustainable solutions and is a focus for all our projects.
   - name: Service Oriented
     icon: ti-alarm-clock
-    content: We work closely with our clients on project management to maintain an
-      optimum schedule.
+    content: We work closely with our clients on project management and scheduling.
   - name: Value For Money
     icon: ti-credit-card
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
