@@ -72,10 +72,6 @@ link = "plugins/slick/slick.min.js"
 enable = false
 preloader = ""
 [[params.social]]
-icon = "ti-github"
-link = "https://github.com/CollectivizeHealth"
-title = "github"
-[[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/CollectivizePH"
 title = "twitter"
@@ -91,3 +87,7 @@ title = "facebook"
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/company/collectivize-health"
 title = "linkedin"
+[[params.social]]
+icon = "ti-github"
+link = "https://github.com/CollectivizeHealth"
+title = "github"
