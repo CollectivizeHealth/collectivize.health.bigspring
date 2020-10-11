@@ -35,7 +35,7 @@ logo = "/images/ch-col-grey_trn.svg"
 logo_width = "300px"
 [params.navigation_button]
 enable = true
-label = "Network with us"
+label = "Contact Us"
 link = "contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
