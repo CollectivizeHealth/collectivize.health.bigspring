@@ -4,16 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: exampleSite/content/blog/**/*
-  label: posts
-  create: all
-  match: "**/*"
-  new_doc_ext: ".md"
-  templates:
-  - new-page
-  - feature
-  - post
 - type: heading
   label: Homepage
 - type: document
@@ -31,6 +21,16 @@ sections:
   match: "**/*"
   exclude: _index.md
   templates:
+  - post
+- type: directory
+  path: exampleSite/content/blog/**/*
+  label: posts
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - new-page
+  - feature
   - post
 - type: heading
   label: Other Pages
