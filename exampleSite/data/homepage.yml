@@ -25,7 +25,7 @@ feature:
     icon: ti-alarm-clock
     content: We work closely with our clients on project management and scheduling.
   - name: Evidence based
-    icon: ti-books
+    icon: ti-credit-card
     content: We practice evidence-based medicine and value patient centeredness.
   - name: Faster Response
     icon: ti-headphone-alt
