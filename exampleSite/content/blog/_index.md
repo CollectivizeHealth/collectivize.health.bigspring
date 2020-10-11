@@ -1,6 +1,13 @@
 ---
 title: Latest News
-subtitle: Press releases and blog posts.
-description: Collectivize Health press, events, blog posts...
+subtitle: ''
+description: This is meta description
+menu:
+  main:
+    name: Blog
+    weight: 2
+  company:
+    name: Blog
+    weight: 2
 
 ---
