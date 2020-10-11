@@ -17,10 +17,12 @@ sections:
 - type: directory
   path: exampleSite/content/blog
   label: Blog Post
-  create: documents
+  create: all
   match: "**/*"
   exclude: _index.md
   templates:
+  - new-page
+  - feature
   - post
 - type: directory
   path: exampleSite/content/blog/**/*
