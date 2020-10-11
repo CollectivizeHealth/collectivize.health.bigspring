@@ -72,17 +72,17 @@ link = "plugins/slick/slick.min.js"
 enable = false
 preloader = ""
 [[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
+title = "twitter"
+[[params.social]]
 icon = "ti-instagram"
 link = "https://www.instagram.com/collectivize.health/"
 title = "Instagram"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/collectivize.health/"
 title = "facebook"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
