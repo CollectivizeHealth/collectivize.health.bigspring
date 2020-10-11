@@ -1,11 +1,12 @@
 ---
 title: Latest News
-subtitle: ''
-description: This is meta description
+subtitle: Press releases and blog posts.
+description: The latest news and updates of Collectivize Health.
+image: "/images/github-splash.png"
 menu:
   main:
-    URL: blog
     name: News
+    URL: blog
     weight: 1
 
 ---
