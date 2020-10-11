@@ -3,7 +3,8 @@ date: 2020-10-11T22:00:00.000+00:00
 description: Collectivize Health presents at the 16th World Congress on Public Health.
 image: "/images/wcph2020-splash.png"
 title: d16th World Congress on Public Health
-type: featured
+type: regular
+draft: true
 
 ---
 # Using AI for mental health analysis & prediction in school surveys
