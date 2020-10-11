@@ -12,7 +12,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Our consulting areas
+  title: Why consult with us?
   feature_item:
   - name: Improve health and well-being
     icon: ti-pulse
