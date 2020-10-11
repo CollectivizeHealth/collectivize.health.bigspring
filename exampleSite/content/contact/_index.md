@@ -4,8 +4,8 @@ subtitle: ''
 description: Collectivize Health contact details
 menu:
   main:
-    URL: contact
     name: Contact
+    URL: contact
     weight: 3
 
 ---
