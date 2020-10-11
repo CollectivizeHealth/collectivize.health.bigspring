@@ -31,9 +31,10 @@ feature:
   - name: Faster Response
     icon: ti-headphone-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
+  - name: Digital Health
     icon: ti-cloud-up
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: We cover a wide range of digital health solutions. Plan your next AI
+      project with us.
 service:
   enable: false
   service_item:
