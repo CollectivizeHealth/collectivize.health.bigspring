@@ -6,7 +6,6 @@ subtitle = "Digital & Public Health Consulting"
 title = "About Us"
 type = ""
 [menu.company]
-URL = "#"
 weight = 1
 [menu.main]
 weight = 1
