@@ -24,7 +24,7 @@ weight = 3
 [params]
 author = "Collectivize Health"
 contact_form_action = ""
-copyright = "Copyright © 2020 • Collectivize Health"
+copyright = "Copyright © 2020 Collectivize Health. All rights reserved."
 description = "Collectivize Health"
 footer_content = "   Follow us on social media:"
 logo = "/images/ch-col-grey_trn.svg"
