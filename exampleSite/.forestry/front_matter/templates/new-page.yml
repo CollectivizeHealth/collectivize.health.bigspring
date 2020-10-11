@@ -31,5 +31,3 @@ fields:
 - type: text
   name: description
   label: meta description
-pages:
-- exampleSite/content/blog/Congress/test.md

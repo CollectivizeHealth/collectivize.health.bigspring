@@ -1,7 +1,10 @@
 ---
-title: "Latest News"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: Latest News
+subtitle: ''
+description: This is meta description
+menu:
+  main:
+    name: Blog
+    weight: 2
+
 ---
