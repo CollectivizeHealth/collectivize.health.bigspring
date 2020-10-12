@@ -21,6 +21,10 @@ subtitle: 12-16 October, 2020
 
 Collectivize Health is presenting the conference paper and talk titled _Using AI for Mental Health Analysis and Prediction in School Surveys_.
 
+This small project brings together our shared passion for improving the health of young people through enhanced, digitized public health practice. It harnesses our combined capabilities in digital health and public health, and provides a model for the application of AI modalities in school settings in order to improve mental health surveillance and evaluation.
+
+We were extremely grateful to share this work with [Professor David Townend](https://www.maastrichtuniversity.nl/d.townend) from Maastricht University. David provided expert insight into the ethical and legal considerations of the implementation of the model.
+
 <hr>
 
 ##### Related Links
