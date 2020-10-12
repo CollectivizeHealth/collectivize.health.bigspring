@@ -43,3 +43,7 @@ _Published_
 ##### Talk video
 
 Video to this talk will be available soon, subject to congress guidelines.
+
+<hr>
+
+{{< tweet 1315256984841662476 >}}
