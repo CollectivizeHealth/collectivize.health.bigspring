@@ -2,7 +2,7 @@
 date = 2020-04-12T06:00:21Z
 description = "Collectivize Health presents at the 16th World Congress on Public Health."
 draft = true
-image = "/images/wcph2020-splash.png"
+image = ""
 subtitle = "12-16 October, 2020"
 title = "Our presentations at WCPH2020"
 type = "featured"
@@ -20,11 +20,11 @@ type = "featured"
 
 <br>
 
-At the WCPH2020, our team are presenting [one abstract](https://collectivize.health/blog/post-5/) together and also as part of other projects.
+At the WCPH2020, our team is presenting several different public health projects, as well as our [abstract](https://collectivize.health/blog/post-5/) about using AI for mental health analysis and prediction in school surveys.
 
 Amanda is presenting an economic evaluation of the decriminalization of sex work in Washington, DC, USA. Amanda did this as part of her Master's Thesis and internship at _____.
 
-Sami is presenting on _______
+Sami is presenting on how we can ______.
 
 As part of the plenary session #8, Pete is talking about the opportunities and challenges facing current public health graduates as they try and break into the job market during COVID19. 
 
