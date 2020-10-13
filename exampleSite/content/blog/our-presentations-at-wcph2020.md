@@ -2,7 +2,7 @@
 date = 2020-04-12T06:00:21Z
 description = "Collectivize Health presents at the 16th World Congress on Public Health."
 draft = true
-image = ""
+image = "/images/screenshot-2020-10-13-at-17-39-51.png"
 subtitle = "12-16 October, 2020"
 title = "Our presentations at WCPH2020"
 type = "featured"
