@@ -22,11 +22,11 @@ type = "featured"
 
 At the WCPH2020, our team is presenting several different public health projects, as well as our [abstract](https://collectivize.health/blog/post-5/) about using AI for mental health analysis and prediction in school surveys.
 
-Amanda is presenting an economic evaluation of the decriminalization of sex work in Washington, DC, USA. Amanda did this as part of her Master's Thesis and internship at _____.
+**Amanda** is presenting an economic evaluation of the decriminalization of sex work in Washington, DC, USA, which was the topic of her master's thesis research.
 
-Sami is presenting on how we can take a human-centered design approach in developing AI-based solutions using existing technologies.
+**Sami** is presenting on how we can take a human-centered design approach in developing AI-based solutions using existing technologies.
 
-As part of the plenary session #8, Pete is talking about the opportunities and challenges facing current public health graduates as they try and break into the job market during COVID19.
+As part of the plenary session #8, **Pete** is talking about the opportunities and challenges facing current public health graduates as they try and break into the job market during COVID19.
 
 <hr>
 
