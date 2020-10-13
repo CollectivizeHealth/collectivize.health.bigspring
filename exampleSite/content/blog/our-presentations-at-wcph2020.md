@@ -68,4 +68,6 @@ Videos to these talks will be available soon, subject to congress guidelines.
 
 ##### Social Media
 
-Videos to these talks will be available soon, subject to congress guidelines.
+{{< tweet 1315256984841662476 >}}
+
+{{< tweet 1315932473239494656 >}}
