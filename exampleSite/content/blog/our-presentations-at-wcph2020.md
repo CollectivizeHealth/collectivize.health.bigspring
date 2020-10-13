@@ -8,7 +8,7 @@ title = "Our presentations at WCPH2020"
 type = "featured"
 
 +++
-# Using AI for mental health analysis & prediction in school surveys
+# Our presentations at WCPH2020
 
 <br>
 
@@ -20,33 +20,52 @@ type = "featured"
 
 <br>
 
-Collectivize Health is presenting the conference paper and talk titled _Using AI for Mental Health Analysis and Prediction in School Surveys_.
+At the WCPH2020, our team are presenting [one abstract](https://collectivize.health/blog/post-5/) together and also as part of other projects.
 
-This small project brings together our shared passion for improving the health of young people through enhanced, digitized public health practice. It harnesses our combined capabilities in digital health and public health, and provides a model for the application of AI modalities in school settings in order to improve mental health surveillance and evaluation.
+Amanda is presenting an economic evaluation of the decriminalization of sex work in Washington, DC, USA. Amanda did this as part of her Master's Thesis and internship at _____.
 
-We were extremely grateful to share this work with [Professor David Townend](https://www.maastrichtuniversity.nl/d.townend) from Maastricht University. David provided expert insight into the ethical and legal considerations of the implementation of the model.
+Sami is presenting on _______
+
+Pete is talking about the opportunities and challenges facing current public health graduates as they try and find there 
 
 <hr>
 
 ##### Related Links
 
-###### Using AI for Mental Health Analysis and Prediction in School Surveys
+###### The economic consequences of decriminalizing sex work in Washington, DC
 
-H S Adnan, A Srsic, P M Venticich, D M R Townend
+A Srsic, K Dubas-Jakóbczyk, E Kocot
 
-_European Journal of Public Health_, Volume 30, Issue Supplement_5, September 2020, ckaa165.336, [https://doi.org/10.1093/eurpub/ckaa165.336](https://doi.org/10.1093/eurpub/ckaa165.336 "https://doi.org/10.1093/eurpub/ckaa165.336")
+_European Journal of Public Health_, Volume 30, Issue Supplement_5, September 2020, ckaa165.673, [https://doi.org/10.1093/eurpub/ckaa165.673](https://doi.org/10.1093/eurpub/ckaa165.673 "https://doi.org/10.1093/eurpub/ckaa165.673")
 
 _Published_  
 30 September 2020
 
 <hr>
 
-##### Talk video
+###### Human centered AI design for clinical monitoring and data management
 
-Video to this talk will be available soon, subject to congress guidelines.
+H S Adnan, S Matthews, M Hackl, P P Das, M Manaswini, S Gadamsetti, M Filali, B Owoyele, J Santuber, J Edelman
+
+_European Journal of Public Health_, Volume 30, Issue Supplement_5, September 2020, ckaa165.225, [https://doi.org/10.1093/eurpub/ckaa165.225](https://doi.org/10.1093/eurpub/ckaa165.225 "https://doi.org/10.1093/eurpub/ckaa165.225")
+
+**Published:**
+
+30 September 2020
 
 <hr>
 
-##### Social Media
+###### Revolutionizing the Public Health Workforce as Agents of Change
 
-{{< tweet 1315256984841662476 >}}
+_European Journal of Public Health_, Volume 30, Issue Supplement_5, September 2020, ckaa164.006, [https://doi.org/10.1093/eurpub/ckaa164.006](https://doi.org/10.1093/eurpub/ckaa164.006 "https://doi.org/10.1093/eurpub/ckaa164.006")
+
+_Published_  
+30 September 2020
+
+<hr>
+
+##### Talk videos
+
+Videos to these talks will be available soon, subject to congress guidelines.
+
+<hr>
