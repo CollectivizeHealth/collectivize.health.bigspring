@@ -26,7 +26,7 @@ Amanda is presenting an economic evaluation of the decriminalization of sex work
 
 Sami is presenting on _______
 
-Pete is talking about the opportunities and challenges facing current public health graduates as they try and find there 
+As part of the plenary session #8, Pete is talking about the opportunities and challenges facing current public health graduates as they try and break into the job market during COVID19. 
 
 <hr>
 
@@ -38,9 +38,6 @@ A Srsic, K Dubas-Jakóbczyk, E Kocot
 
 _European Journal of Public Health_, Volume 30, Issue Supplement_5, September 2020, ckaa165.673, [https://doi.org/10.1093/eurpub/ckaa165.673](https://doi.org/10.1093/eurpub/ckaa165.673 "https://doi.org/10.1093/eurpub/ckaa165.673")
 
-_Published_  
-30 September 2020
-
 <hr>
 
 ###### Human centered AI design for clinical monitoring and data management
@@ -49,17 +46,16 @@ H S Adnan, S Matthews, M Hackl, P P Das, M Manaswini, S Gadamsetti, M Filali, B 
 
 _European Journal of Public Health_, Volume 30, Issue Supplement_5, September 2020, ckaa165.225, [https://doi.org/10.1093/eurpub/ckaa165.225](https://doi.org/10.1093/eurpub/ckaa165.225 "https://doi.org/10.1093/eurpub/ckaa165.225")
 
-**Published:**
-
-30 September 2020
-
 <hr>
 
 ###### Revolutionizing the Public Health Workforce as Agents of Change
 
 _European Journal of Public Health_, Volume 30, Issue Supplement_5, September 2020, ckaa164.006, [https://doi.org/10.1093/eurpub/ckaa164.006](https://doi.org/10.1093/eurpub/ckaa164.006 "https://doi.org/10.1093/eurpub/ckaa164.006")
 
-_Published_  
+<hr>
+
+_All published:_
+
 30 September 2020
 
 <hr>
