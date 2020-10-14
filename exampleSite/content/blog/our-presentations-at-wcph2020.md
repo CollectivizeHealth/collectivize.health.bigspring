@@ -67,6 +67,8 @@ Videos to these talks will be available soon, subject to congress guidelines.
 
 ##### Social Media
 
+{{< tweet 1316296024374214656 >}}
+
 {{< tweet 1315256984841662476 >}}
 
 {{< tweet 1315932473239494656 >}}
