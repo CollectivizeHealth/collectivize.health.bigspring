@@ -1,7 +1,6 @@
 +++
 date = 2020-04-12T06:00:21Z
 description = "Collectivize Health presents at the 16th World Congress on Public Health."
-draft = true
 image = "/images/screenshot-2020-10-13-at-17-39-51.png"
 subtitle = "12-16 October, 2020"
 title = "Our presentations at WCPH2020"
@@ -26,7 +25,7 @@ At the WCPH2020, our team is presenting several different public health projects
 
 **Sami** is presenting on how we can take a human-centered design approach in developing AI-based solutions using existing technologies.
 
-As part of the plenary session #8, **Pete** is talking about the opportunities and challenges facing current public health graduates as they try and break into the job market during COVID19.
+As part of the plenary session #6, **Pete** is talking about the opportunities and challenges facing current public health graduates as they try and break into the job market during COVID19.
 
 <hr>
 
