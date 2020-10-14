@@ -7,7 +7,7 @@ title = "Our presentations at WCPH2020"
 type = "featured"
 
 +++
-# Our presentations at WCPH2020
+# Analysis, advocacy and action at WCPH2020
 
 <br>
 
@@ -20,6 +20,8 @@ type = "featured"
 <br>
 
 At the WCPH2020, our team is presenting several different public health projects, as well as our [abstract](https://collectivize.health/blog/post-5/) about using AI for mental health analysis and prediction in school surveys.
+
+Our presentations and talks reflect the conference themes of **analysis**, **advocacy** and **action**!
 
 **Amanda** is presenting an economic evaluation of the decriminalization of sex work in Washington, DC, USA, which was the topic of her master's thesis research.
 
