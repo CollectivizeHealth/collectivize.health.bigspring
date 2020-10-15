@@ -14,7 +14,7 @@ feature:
   enable: true
   title: What do we do? What do we value?
   feature_item:
-  - name: Health and well-being
+  - name: Health & well-being
     icon: ti-pulse
     content: We can carry out independent research or collaborate with you on your
       next project.
