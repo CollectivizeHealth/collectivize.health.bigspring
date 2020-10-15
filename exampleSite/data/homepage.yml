@@ -96,8 +96,8 @@ call_to_action:
   enable: true
   title: Want to collaborate?
   image: images/cta.svg
-  content: Email us with your ideas and needs for your next Digital Health or Public
-    Health idea, and let's build something great together!
+  content: Email us with ideas and needs for your next Digital Health or Public Health
+    project, so we can build something great together!
   button:
     enable: true
     label: Contact Us
