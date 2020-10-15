@@ -25,9 +25,10 @@ feature:
   - name: Impact
     icon: ti-alarm-clock
     content: We want to be a part of positive change through our work.
-  - name: Evidence based
+  - name: Evidence-informed
     icon: ti-credit-card
-    content: We practice evidence-based medicine and value patient centeredness.
+    content: We synthesise qualitative and quantitative evidence and best practices
+      to create actionable recommendations.
   - name: Client management
     icon: ti-headphone-alt
     content: We assign a contact person for all our clients for the best communication.
