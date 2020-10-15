@@ -12,7 +12,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Why consult with us?
+  title: What do we value?
   feature_item:
   - name: Health and well-being
     icon: ti-pulse
@@ -22,9 +22,9 @@ feature:
     icon: ti-package
     content: We value sustainable solutions and will make this a focus for all our
       projects.
-  - name: Service Oriented
+  - name: Impact
     icon: ti-alarm-clock
-    content: We work closely with our clients on project management and scheduling.
+    content: We want to be a part of positive change through our work.
   - name: Evidence based
     icon: ti-credit-card
     content: We practice evidence-based medicine and value patient centeredness.
