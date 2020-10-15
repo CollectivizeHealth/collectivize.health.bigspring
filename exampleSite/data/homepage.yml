@@ -92,7 +92,7 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Ready to get started?
+  title: Want to collaborate?
   image: images/cta.svg
   content: Email us with your ideas and needs for your next Digital Health or Public
     Health idea, and let's build something great together!
