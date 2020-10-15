@@ -16,8 +16,8 @@ feature:
   feature_item:
   - name: Health and well-being
     icon: ti-pulse
-    content: We can carry out independent research or collaborate with you on your
-      next project.
+    content: We can carry out rapid independent research or collaborate with you on
+      your next project.
   - name: Sustainability
     icon: ti-package
     content: We value sustainable solutions and will make this a focus for all our
