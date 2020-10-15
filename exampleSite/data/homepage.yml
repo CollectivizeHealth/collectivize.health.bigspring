@@ -18,9 +18,10 @@ feature:
     icon: ti-pulse
     content: We can carry out independent research or collaborate with you on your
       next project.
-  - name: Sustainability in mind
+  - name: Sustainability
     icon: ti-package
-    content: We value sustainable solutions and is a focus for all our projects.
+    content: We value sustainable solutions and will make this a focus for all our
+      projects.
   - name: Service Oriented
     icon: ti-alarm-clock
     content: We work closely with our clients on project management and scheduling.
