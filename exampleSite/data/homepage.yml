@@ -27,8 +27,7 @@ feature:
     content: We want to be a part of lasting positive change through our work.
   - name: Evidence-informed & Data-driven
     icon: ti-credit-card
-    content: We synthesise qualitative and quantitative evidence and best practices
-      into recommendations.
+    content: We synthesise qualitative and quantitative evidence into recommendations.
   - name: Engagement & Empowerment
     icon: ti-headphone-alt
     content: We collaborate and partner. We have done our job when we are no longer
