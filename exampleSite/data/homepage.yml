@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Digital & Public Health Consulting
+  title: Digital Health & Public Health
   image: images/banner-art.svg
   content: |
     Collectivize Health is a digital & public health consulting start-up company. It is a platform for research, projects and ideas. <br> If your ideas, dreams and work are equitable, sustainable and data-driven, we want to get involved.
@@ -14,7 +14,7 @@ feature:
   enable: true
   title: Why consult with us?
   feature_item:
-  - name: Improve health and well-being
+  - name: Health and well-being
     icon: ti-pulse
     content: We can carry out independent research or collaborate with you on your
       next project.
