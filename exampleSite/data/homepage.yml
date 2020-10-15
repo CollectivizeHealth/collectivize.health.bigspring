@@ -12,7 +12,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: What do we value?
+  title: What do we do? What do we value?
   feature_item:
   - name: Health and well-being
     icon: ti-pulse
